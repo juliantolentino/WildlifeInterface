@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>load_data_icon.png</file>
+        <file>open_file_icon.png</file>
+        <file>load_gaze_icon.png</file>
+    </qresource>
+</RCC>
