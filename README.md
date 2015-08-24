@@ -5,7 +5,9 @@ Summary: This is an instruction for compiling the wildlife interface code on Qt.
 You will need to download Qt online. Have sufficient space for the installation of Qt. The windows version will take about 5 GB of space. The interface code and GUI elements are in the "Interface" folder. The executable and dll files must stay in the same directory.
 
 If video does not appear after pressing "Play", the install the proper codec pack. The K-Lite Codec Pack Standard is included in the "Interface Windows Executable" folder. If possible, check and install the latest version at www.codecguide.com/download_kl.htm.
+
 How to Compile Interface Code in Qt
+
 1.	 Download, install, and open the latest version of Qt Open Source from www.qt.io/download/.
 2.	Open "Interface.pro" in Qt
 a.	The interface code and GUI elements must be in the same folder.
